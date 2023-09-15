@@ -1,0 +1,1028 @@
+.index {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+}
+
+.index .overlap-wrapper {
+    background-color: #ffffff;
+    width: 1440px;
+    height: 1024px;
+}
+
+.index .overlap {
+    position: relative;
+    height: 1024px;
+    background-image: url(./img/mujeres\ 1.png);
+    background-size: cover;
+    background-position: 50% 50%;
+}
+
+.index .inicio {
+    position: absolute;
+    width: 169px;
+    height: 61px;
+    top: 29px;
+    left: 561px;
+}
+
+.index .overlap-group {
+    position: relative;
+    width: 167px;
+    height: 61px;
+    background-color: #845353;
+    border-radius: 55px;
+}
+
+.index .text-wrapper {
+    position: absolute;
+    width: 134px;
+    top: 6px;
+    left: 18px;
+    font-family: "DM Serif Display", serif;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 35px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.index .integrantes {
+    position: absolute;
+    width: 237px;
+    height: 61px;
+    top: 29px;
+    left: 952px;
+}
+
+.index .div-wrapper {
+    position: relative;
+    width: 235px;
+    height: 61px;
+    background-color: #845353;
+    border-radius: 55px;
+}
+
+.index .div {
+    position: absolute;
+    width: 201px;
+    top: 4px;
+    left: 17px;
+    font-family: "DM Serif Display", serif;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 35px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.index .equipo {
+    position: absolute;
+    width: 188px;
+    height: 61px;
+    top: 29px;
+    left: 747px;
+}
+
+.index .overlap-2 {
+    position: relative;
+    width: 186px;
+    height: 61px;
+    background-color: #845353;
+    border-radius: 55px;
+}
+
+.index .text-wrapper-2 {
+    position: absolute;
+    width: 159px;
+    top: 4px;
+    left: 13px;
+    font-family: "DM Serif Display", serif;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 35px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.index .proyecto {
+    position: absolute;
+    width: 190px;
+    height: 61px;
+    top: 29px;
+    left: 1206px;
+}
+
+.index .overlap-3 {
+    position: relative;
+    width: 188px;
+    height: 61px;
+    background-color: #845353;
+    border-radius: 55px;
+}
+
+.index .text-wrapper-3 {
+    position: absolute;
+    width: 172px;
+    top: 4px;
+    left: 8px;
+    font-family: "DM Serif Display", serif;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 35px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.index .logo-uade {
+    position: absolute;
+    width: 292px;
+    height: 85px;
+    top: 925px;
+    left: 1148px;
+    object-fit: cover;
+}
+
+.datos-del-equipo {
+    background-color: #eeb29a;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+}
+
+.datos-del-equipo .div {
+    background-color: #eeb29a;
+    width: 1440px;
+    height: 1024px;
+    position: relative;
+}
+
+.datos-del-equipo .overlap {
+    position: absolute;
+    width: 999px;
+    height: 457px;
+    top: 290px;
+    left: 260px;
+}
+
+.datos-del-equipo .rectangulo-datos-del {
+    position: absolute;
+    width: 932px;
+    height: 457px;
+    top: 0;
+    left: 0;
+}
+
+.datos-del-equipo .text-wrapper {
+    position: absolute;
+    width: 536px;
+    top: 20px;
+    left: 198px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    color: #000000;
+    font-size: 60px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.datos-del-equipo .a-o-y-curso {
+    position: absolute;
+    width: 520px;
+    top: 214px;
+    left: 346px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    color: #000000;
+    font-size: 30px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.datos-del-equipo .span {
+    font-weight: 600;
+}
+
+.datos-del-equipo .text-wrapper-2 {
+    font-family: "Poppins", sans-serif;
+    font-weight: 300;
+}
+
+.datos-del-equipo .numero-del-equipo {
+    position: absolute;
+    width: 495px;
+    top: 155px;
+    left: 346px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    color: #000000;
+    font-size: 30px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.datos-del-equipo .materia {
+    position: absolute;
+    width: 526px;
+    top: 275px;
+    left: 346px;
+    font-family: "Poppins-SemiBold", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 30px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.datos-del-equipo .text-wrapper-3 {
+    font-family: "Poppins-Bold", Helvetica;
+    font-weight: 700;
+}
+
+.datos-del-equipo .docente {
+    position: absolute;
+    width: 653px;
+    top: 336px;
+    left: 346px;
+    font-family: "Poppins-SemiBold", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 30px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.datos-del-equipo .datosicono {
+    position: absolute;
+    width: 256px;
+    height: 256px;
+    top: 150px;
+    left: 42px;
+    object-fit: cover;
+}
+
+.datos-del-equipo .inicio {
+    position: absolute;
+    width: 169px;
+    height: 61px;
+    top: 29px;
+    left: 561px;
+}
+
+.datos-del-equipo .overlap-group {
+    position: relative;
+    width: 167px;
+    height: 61px;
+    background-color: #845353;
+    border-radius: 55px;
+}
+
+.datos-del-equipo .text-wrapper-4 {
+    position: absolute;
+    width: 134px;
+    top: 6px;
+    left: 18px;
+    font-family: "DM Serif Display", serif;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 35px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.datos-del-equipo .integrantes {
+    position: absolute;
+    width: 237px;
+    height: 61px;
+    top: 29px;
+    left: 952px;
+}
+
+.datos-del-equipo .div-wrapper {
+    position: relative;
+    width: 235px;
+    height: 61px;
+    background-color: #845353;
+    border-radius: 55px;
+}
+
+.datos-del-equipo .text-wrapper-5 {
+    position: absolute;
+    width: 201px;
+    top: 4px;
+    left: 17px;
+    font-family: "DM Serif Display", serif;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 35px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.datos-del-equipo .overlap-wrapper {
+    position: absolute;
+    width: 188px;
+    height: 61px;
+    top: 29px;
+    left: 747px;
+}
+
+.datos-del-equipo .overlap-2 {
+    position: relative;
+    width: 186px;
+    height: 61px;
+    background-color: #845353;
+    border-radius: 55px;
+}
+
+.datos-del-equipo .text-wrapper-6 {
+    position: absolute;
+    width: 159px;
+    top: 4px;
+    left: 13px;
+    font-family: "DM Serif Display", serif;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 35px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.datos-del-equipo .proyecto {
+    position: absolute;
+    width: 190px;
+    height: 61px;
+    top: 29px;
+    left: 1206px;
+}
+
+.datos-del-equipo .overlap-3 {
+    position: relative;
+    width: 188px;
+    height: 61px;
+    background-color: #845353;
+    border-radius: 55px;
+}
+
+.datos-del-equipo .text-wrapper-7 {
+    position: absolute;
+    width: 172px;
+    top: 4px;
+    left: 8px;
+    font-family: "DM Serif Display", serif;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 35px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.datos-del-equipo .overlap-4 {
+    position: absolute;
+    width: 1440px;
+    height: 115px;
+    top: 909px;
+    left: 0;
+    background-color: #ebe3e3;
+}
+
+.datos-del-equipo .overlap-5 {
+    position: absolute;
+    width: 654px;
+    height: 78px;
+    top: 21px;
+    left: 786px;
+}
+
+.datos-del-equipo .logo-uade {
+    position: absolute;
+    width: 270px;
+    height: 78px;
+    top: 0;
+    left: 384px;
+    object-fit: cover;
+}
+
+.datos-del-equipo .text-wrapper-8 {
+    position: absolute;
+    width: 396px;
+    top: 15px;
+    left: 0;
+    font-family: "Poppins-Light", Helvetica;
+    font-weight: 300;
+    color: #000000;
+    font-size: 25px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.datos-del-equipo .text-wrapper-9 {
+    position: absolute;
+    width: 249px;
+    top: 38px;
+    left: 26px;
+    font-family: "Poppins-Light", Helvetica;
+    font-weight: 300;
+    color: #000000;
+    font-size: 25px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.datos-del-equipo .text-wrapper-10 {
+    position: absolute;
+    width: 249px;
+    top: 36px;
+    left: 428px;
+    font-family: "Poppins-Light", Helvetica;
+    font-weight: 300;
+    color: #000000;
+    font-size: 25px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.proyectos {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+}
+
+.proyectos .div {
+    background-color: #ffffff;
+    width: 1440px;
+    height: 1024px;
+    position: relative;
+}
+
+.proyectos .text-wrapper {
+    position: absolute;
+    top: 176px;
+    left: 611px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    color: #000000;
+    font-size: 45px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.proyectos .overlap {
+    position: absolute;
+    width: 585px;
+    height: 441px;
+    top: 338px;
+    left: 116px;
+    background-color: #eca53b;
+    border-radius: 60px;
+}
+
+.proyectos .text-wrapper-2 {
+    position: absolute;
+    width: 398px;
+    top: 37px;
+    left: 98px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 30px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.proyectos .descripcion-hambre {
+    top: 122px;
+    left: 52px;
+    position: absolute;
+    width: 480px;
+    font-family: "DM Serif Display", serif;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 25px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.proyectos .linea {
+    position: absolute;
+    width: 155px;
+    height: 3px;
+    top: 99px;
+    left: 220px;
+}
+
+.proyectos .overlap-group {
+    position: absolute;
+    width: 585px;
+    height: 441px;
+    top: 338px;
+    left: 754px;
+    background-color: #ec653b;
+    border-radius: 60px;
+}
+
+.proyectos .descripcion-genero {
+    top: 142px;
+    left: 53px;
+    position: absolute;
+    width: 480px;
+    font-family: "DM Serif Display", serif;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 25px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.proyectos .img {
+    position: absolute;
+    width: 155px;
+    height: 3px;
+    top: 103px;
+    left: 220px;
+}
+
+.proyectos .overlap-2 {
+    position: absolute;
+    width: 1440px;
+    height: 115px;
+    top: 909px;
+    left: 0;
+    background-color: #ebe3e3;
+}
+
+.proyectos .overlap-3 {
+    position: absolute;
+    width: 654px;
+    height: 78px;
+    top: 21px;
+    left: 786px;
+}
+
+.proyectos .logo-uade {
+    position: absolute;
+    width: 270px;
+    height: 78px;
+    top: 0;
+    left: 384px;
+    object-fit: cover;
+}
+
+.proyectos .text-wrapper-3 {
+    position: absolute;
+    width: 396px;
+    top: 15px;
+    left: 0;
+    font-family: "Poppins", sans-serif;
+    font-weight: 300;
+    color: #000000;
+    font-size: 25px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.proyectos .text-wrapper-4 {
+    position: absolute;
+    width: 249px;
+    top: 38px;
+    left: 26px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 300;
+    color: #000000;
+    font-size: 25px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.proyectos .text-wrapper-5 {
+    width: 249px;
+    top: 36px;
+    left: 428px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 300;
+    color: #000000;
+    font-size: 25px;
+    position: absolute;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.proyectos .inicio {
+    position: absolute;
+    width: 169px;
+    height: 61px;
+    top: 29px;
+    left: 561px;
+}
+
+.proyectos .div-wrapper {
+    position: relative;
+    width: 167px;
+    height: 61px;
+    background-color: #845353;
+    border-radius: 55px;
+}
+
+.proyectos .text-wrapper-6 {
+    position: absolute;
+    width: 134px;
+    top: 6px;
+    left: 18px;
+    font-family: "DM Serif Display", serif;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 35px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.proyectos .integrantes {
+    position: absolute;
+    width: 237px;
+    height: 61px;
+    top: 29px;
+    left: 952px;
+}
+
+.proyectos .overlap-4 {
+    position: relative;
+    width: 235px;
+    height: 61px;
+    background-color: #845353;
+    border-radius: 55px;
+}
+
+.proyectos .text-wrapper-7 {
+    position: absolute;
+    width: 201px;
+    top: 4px;
+    left: 17px;
+    font-family: "DM Serif Display", serif;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 35px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.proyectos .overlap-wrapper {
+    position: absolute;
+    width: 188px;
+    height: 61px;
+    top: 29px;
+    left: 747px;
+}
+
+.proyectos .overlap-5 {
+    position: relative;
+    width: 186px;
+    height: 61px;
+    background-color: #845353;
+    border-radius: 55px;
+}
+
+.proyectos .text-wrapper-8 {
+    width: 159px;
+    top: 4px;
+    left: 13px;
+    font-family: "DM Serif Display", serif;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 35px;
+    position: absolute;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.proyectos .proyecto {
+    position: absolute;
+    width: 190px;
+    height: 61px;
+    top: 29px;
+    left: 1206px;
+}
+
+.proyectos .overlap-6 {
+    position: relative;
+    width: 188px;
+    height: 61px;
+    background-color: #845353;
+    border-radius: 55px;
+}
+
+.proyectos .text-wrapper-9 {
+    position: absolute;
+    width: 172px;
+    top: 4px;
+    left: 8px;
+    font-family: "DM Serif Display", serif;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 35px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.integrantes .boton-inicio {
+    width: 175px;
+    left: 557px;
+    position: absolute;
+    height: 69px;
+    top: 29px;
+}
+
+.integrantes .boton-integrantes {
+    width: 243px;
+    left: 948px;
+    position: absolute;
+    height: 69px;
+    top: 29px;
+}
+
+.integrantes .boton-equipo {
+    width: 194px;
+    left: 743px;
+    position: absolute;
+    height: 69px;
+    top: 29px;
+}
+
+.integrantes .boton-proyecto {
+    width: 196px;
+    left: 1202px;
+    position: absolute;
+    height: 69px;
+    top: 29px;
+}
+
+.integrantes .overlap {
+    position: absolute;
+    width: 1446px;
+    height: 115px;
+    top: 909px;
+    left: 0;
+}
+
+.integrantes .logo-uade {
+    position: absolute;
+    width: 270px;
+    height: 78px;
+    top: 21px;
+    left: 1170px;
+    object-fit: cover;
+}
+
+.integrantes .cuadroinferior {
+    position: absolute;
+    width: 1446px;
+    height: 115px;
+    top: 0;
+    left: 0;
+}
+
+.integrantes .overlap-group {
+    position: relative;
+    width: 1440px;
+    height: 115px;
+    background-color: #ebe3e3;
+}
+
+.integrantes .text-wrapper {
+    position: absolute;
+    width: 249px;
+    top: 39px;
+    left: 26px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 300;
+    color: #000000;
+    font-size: 25px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.integrantes .text-wrapper-2 {
+    position: absolute;
+    width: 249px;
+    top: 37px;
+    left: 428px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 300;
+    color: #000000;
+    font-size: 25px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.integrantes .text-wrapper-3 {
+    position: absolute;
+    width: 396px;
+    top: 37px;
+    left: 786px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 300;
+    color: #000000;
+    font-size: 25px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.integrantes .overlap-2 {
+    position: absolute;
+    width: 1186px;
+    height: 704px;
+    top: 146px;
+    left: 126px;
+    background-color: #ffffff;
+    border-radius: 79px;
+}
+
+.integrantes .ellipse {
+    width: 278px;
+    top: 108px;
+    left: 107px;
+    position: absolute;
+    height: 264px;
+    object-fit: cover;
+}
+
+.integrantes .img {
+    width: 279px;
+    top: 108px;
+    left: 636px;
+    position: absolute;
+    height: 264px;
+    object-fit: cover;
+}
+
+.integrantes .ellipse-2 {
+    width: 279px;
+    top: 400px;
+    left: 636px;
+    position: absolute;
+    height: 264px;
+    object-fit: cover;
+}
+
+.integrantes .ellipse-3 {
+    width: 278px;
+    top: 400px;
+    left: 107px;
+    position: absolute;
+    height: 264px;
+    object-fit: cover;
+}
+
+.integrantes .sasha-palmeyro {
+    position: absolute;
+    width: 160px;
+    top: 450px;
+    left: 941px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    color: #000000;
+    font-size: 30px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.integrantes .text-wrapper-4 {
+    width: 160px;
+    left: 411px;
+    position: absolute;
+    top: 162px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    color: #000000;
+    font-size: 30px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.integrantes .aylen-lee {
+    position: absolute;
+    width: 155px;
+    top: 454px;
+    left: 411px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    color: #000000;
+    font-size: 30px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.integrantes .maria-paz-valiente {
+    width: 190px;
+    left: 941px;
+    position: absolute;
+    top: 162px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    color: #000000;
+    font-size: 30px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.integrantes .cv-m {
+    position: absolute;
+    width: 132px;
+    height: 58px;
+    top: 257px;
+    left: 407px;
+}
+
+.integrantes .cv-s {
+    position: absolute;
+    width: 132px;
+    height: 58px;
+    top: 546px;
+    left: 937px;
+}
+
+.integrantes .cv-a {
+    position: absolute;
+    width: 142px;
+    height: 62px;
+    top: 549px;
+    left: 407px;
+}
+
+.integrantes .cv-mp {
+    position: absolute;
+    width: 132px;
+    height: 58px;
+    top: 258px;
+    left: 937px;
+}
+
+.integrantes .titulo-integrantes {
+    position: absolute;
+    top: 3px;
+    left: 458px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    color: #000000;
+    font-size: 45px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.overlap-group:hover{
+    background-color: #FFE5E5;
+}
+
+.div-wrapper:hover{
+    background-color: #FFE5E5;
+}
+
+.overlap-2:hover{
+    background-color: #FFE5E5;
+}
+
+.overlap-3:hover{
+    background-color: #FFE5E5;
+}
+
+.overlap-4:hover{
+    background-color: #FFE5E5;
+}
+
+.overlap-5:hover{
+    background-color: #FFE5E5;
+}
+
+.overlap-6:hover{
+    background-color: #FFE5E5;
+}
